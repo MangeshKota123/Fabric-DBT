@@ -1,0 +1,56 @@
+version: 2
+sources:
+  - name: bronze_perf
+    database: lh_bronze
+    schema: dbo
+    tables:
+      - name: brz_perf_001
+      - name: brz_perf_002
+      - name: brz_perf_003
+      - name: brz_perf_004
+      - name: brz_perf_005
+      - name: brz_perf_006
+      - name: brz_perf_007
+      - name: brz_perf_008
+      - name: brz_perf_009
+      - name: brz_perf_010
+      - name: brz_perf_011
+      - name: brz_perf_012
+      - name: brz_perf_013
+      - name: brz_perf_014
+      - name: brz_perf_015
+      - name: brz_perf_016
+      - name: brz_perf_017
+      - name: brz_perf_018
+      - name: brz_perf_019
+      - name: brz_perf_020
+      - name: brz_perf_021
+      - name: brz_perf_022
+      - name: brz_perf_023
+      - name: brz_perf_024
+      - name: brz_perf_025
+      - name: brz_perf_026
+      - name: brz_perf_027
+      - name: brz_perf_028
+      - name: brz_perf_029
+      - name: brz_perf_030
+      - name: brz_perf_031
+      - name: brz_perf_032
+      - name: brz_perf_033
+      - name: brz_perf_034
+      - name: brz_perf_035
+      - name: brz_perf_036
+      - name: brz_perf_037
+      - name: brz_perf_038
+      - name: brz_perf_039
+      - name: brz_perf_040
+      - name: brz_perf_041
+      - name: brz_perf_042
+      - name: brz_perf_043
+      - name: brz_perf_044
+      - name: brz_perf_045
+      - name: brz_perf_046
+      - name: brz_perf_047
+      - name: brz_perf_048
+      - name: brz_perf_049
+      - name: brz_perf_050

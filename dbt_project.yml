@@ -1,0 +1,7 @@
+name: mercer_dbt_perf
+version: "0.1.0"
+config-version: 2
+profile: mercer_fabric   # Fabric dbt job profile -> lh_silver (Lakehouse)
+
+model-paths: ["models"]
+macro-paths: ["macros"]
